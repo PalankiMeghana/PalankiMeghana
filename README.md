@@ -16,17 +16,17 @@
 
 ## 🚀 Projects  
 
-### 🔹 [GradeGenie – AI-Powered Feedback Tool](https://github.com/PalankiMeghana/grade-genie)  
+### 🔹 [GradeGenie – AI-Powered Feedback Tool]  
 - Fine-tuned **phi-2** on 230+ CS Q&A pairs for rubric-aligned feedback.  
 - Flask backend with text/image/PDF input support (OCR parsing).  
 - Caching for fast inference + **unit testing (pytest)** for reliability.  
 
-### 🔹 [AI Code Reviewer](https://github.com/PalankiMeghana/ai-code-reviewer)  
+### 🔹 [AI Code Reviewer] 
 - Fine-tuned **Salesforce CodeT5-small** to automate code reviews.  
 - Performs **time/space complexity analysis** and suggests refactors.  
 - Evaluated using **BLEU, ROUGE, METEOR, BERTScore** (90% accuracy).  
 
-### 🔹 [Manhwa Recommender System](https://github.com/PalankiMeghana/manhwa-recommender)  
+### 🔹 [Manhwa Recommender System]  
 - Built a **content-based recommender** (TF-IDF + cosine similarity).  
 - Deployed ranking system to improve cold-start performance.  
 
